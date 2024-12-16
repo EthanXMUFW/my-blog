@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "My first blog",
+    "content": "Hello World！",
+    "createdAt": "2024-12-11T04:17:45.161Z"
+  },
+  {
+    "id": 2,
+    "title": "My second blog",
+    "content": "test02",
+    "createdAt": "2024-12-11T04:18:15.582Z"
+  }
+]
